@@ -1,5 +1,5 @@
 # old_armenian_fonts
-# Hayfonts ArmSCII to Unicode Archive
+# Old Armenian fonts ArmSCII to Unicode Archive
 
 Այստեղ հավաքված են հին հայկական հանրաճանաչ տառատեսակները, որոնք փոխակերպվել են ժամանակակից Յունիկոդ (Unicode) ձևաչափի:
 
@@ -11,14 +11,9 @@ To download the entire collection, click the green **Code** button and select **
 
 ## 🖋️ Տառատեսակների Ցանկ և Հեղինակներ / Font List & Credits
 
-* **DallakGaramond** (Շեղատառ / Italic ֆայլ՝ `DLGARBI_U.ttf`)
+* **DallakGaramond** (Ուղիղ Շեղատառ Թավ-շեղատառ/ Normal Italic BoldItalic)
   * *Հեղինակ / Author:* Պավել Դալլաքյան (Pavel Dallakyan)
   * *Նկարագրություն:* Ստեղծվել է 1993-թվականին, համապատասխանեցված է դասական Garamond ոճին:
-* **Aramian Family** (`Aramian Normal`, `Bold`, `Italic`, `Outline`)
-* **Araratn**
-* **ArmAdver**
-* **ArmAllegro**
-* **ArmBoloragir**
 
 ## 📜 Իրավական ծանուցում / Disclaimer
 Տառատեսակների թվային դիզայնի և գեղարվեստական տեսքի հեղինակային իրավունքները պատկանում են դրանց բնօրինակ ստեղծողներին: Սույն նախագծի շրջանակներում կատարվել է միայն տեխնիկական փոխակերպում (ArmSCII -> Unicode)՝ հանրային օգտագործման և հայկական թվային ժառանգության պահպանման նպատակով:
