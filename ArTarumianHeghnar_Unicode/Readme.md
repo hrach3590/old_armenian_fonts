@@ -1,6 +1,6 @@
 Old Armenian fonts ArmSCII to Unicode Archive
 📥 Ինչպես ներբեռնել / How to Download
-Ամբողջական փաթեթը ներբեռնելու համար սեղմեք կանաչ Code կոճակը և ընտրեք Download ZIP: To download the entire collection, click the green Code button and select Download ZIP.
+Ամբողջական փաթեթը ներբեռնելու համար սեղմեք՝ ArTarumianHeghnar.zip: To download the entire collection, click the ArTarumianHeghnar.zip.
 🖋️ Տառատեսակների Ցանկ և Հեղինակներ / Font List & Credits
 ArTarumianHeghnar_Unicode (Շեղատառ Թավ-շեղատառ/ Italic BoldItalic)
 Հեղինակ / Author: Ռուբեն Թառումյան Ruben Tarumyan
